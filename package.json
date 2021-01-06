@@ -1,0 +1,19 @@
+{
+  "name": "schoolmanagementsystem",
+  "version": "1.0.0",
+  "description": "Its a school management system.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.2",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.3",
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
